@@ -1,0 +1,24 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/jfcastillo/dev2_ws/install/turtlesim/include/**",
+        "/home/jfcastillo/ros2_ws/install/my_robot_interfaces/include/**",
+        "/home/jfcastillo/SCARA-Robot-Control-and-Manipulation/install/custom_interfaces/include/**",
+        "/opt/ros/humble/include/**",
+        "/home/jfcastillo/dev2_ws/src/ros_tutorials/turtlesim/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}

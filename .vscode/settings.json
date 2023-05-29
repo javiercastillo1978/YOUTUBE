@@ -1,0 +1,42 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/jfcastillo/dev2_ws/install/wshop_nodes/lib/python3.10/site-packages",
+        "/home/jfcastillo/dev2_ws/install/turtlesim/local/lib/python3.10/dist-packages",
+        "/home/jfcastillo/dev2_ws/install/tf2_workshop/lib/python3.10/site-packages",
+        "/home/jfcastillo/RASL/catkin_ws/install/wheeled_robot_arduino/lib/python3.10/site-packages",
+        "/home/jfcastillo/RASL/line_follower_ROS2/install/modelo_robot/lib/python3.10/site-packages",
+        "/home/jfcastillo/examples/install/test_py_pkg/lib/python3.10/site-packages",
+        "/home/jfcastillo/arduinobot_ws/build/my-test-package",
+        "/home/jfcastillo/arduinobot_ws/install/my-test-package/lib/python3.10/site-packages",
+        "/home/jfcastillo/deter2/install/deter2/local/lib/python3.10/dist-packages",
+        "/home/jfcastillo/deter1/install/deter1/local/lib/python3.10/dist-packages",
+        "/home/jfcastillo/dev_ws/install/warehouse_robot_spawner_pkg/lib/python3.10/site-packages",
+        "/home/jfcastillo/dev_ws/install/warehouse_robot_controller_pkg/lib/python3.10/site-packages",
+        "/home/jfcastillo/dev_ws/install/two_wheeled_robot/lib/python3.10/site-packages",
+        "/home/jfcastillo/ros2_ws/install/my_robot_interfaces/local/lib/python3.10/dist-packages",
+        "/home/jfcastillo/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages",
+        "/home/jfcastillo/SCARA-Robot-Control-and-Manipulation/install/custom_interfaces/local/lib/python3.10/dist-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/jfcastillo/dev2_ws/install/wshop_nodes/lib/python3.10/site-packages",
+        "/home/jfcastillo/dev2_ws/install/turtlesim/local/lib/python3.10/dist-packages",
+        "/home/jfcastillo/dev2_ws/install/tf2_workshop/lib/python3.10/site-packages",
+        "/home/jfcastillo/RASL/catkin_ws/install/wheeled_robot_arduino/lib/python3.10/site-packages",
+        "/home/jfcastillo/RASL/line_follower_ROS2/install/modelo_robot/lib/python3.10/site-packages",
+        "/home/jfcastillo/examples/install/test_py_pkg/lib/python3.10/site-packages",
+        "/home/jfcastillo/arduinobot_ws/build/my-test-package",
+        "/home/jfcastillo/arduinobot_ws/install/my-test-package/lib/python3.10/site-packages",
+        "/home/jfcastillo/deter2/install/deter2/local/lib/python3.10/dist-packages",
+        "/home/jfcastillo/deter1/install/deter1/local/lib/python3.10/dist-packages",
+        "/home/jfcastillo/dev_ws/install/warehouse_robot_spawner_pkg/lib/python3.10/site-packages",
+        "/home/jfcastillo/dev_ws/install/warehouse_robot_controller_pkg/lib/python3.10/site-packages",
+        "/home/jfcastillo/dev_ws/install/two_wheeled_robot/lib/python3.10/site-packages",
+        "/home/jfcastillo/ros2_ws/install/my_robot_interfaces/local/lib/python3.10/dist-packages",
+        "/home/jfcastillo/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages",
+        "/home/jfcastillo/SCARA-Robot-Control-and-Manipulation/install/custom_interfaces/local/lib/python3.10/dist-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}
